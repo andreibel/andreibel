@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-1F2937?logo=vercel&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue">
+  <a href="https://www.linkedin.com/in/andrei-beloziorov/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white">LinkedIn</a>
+  <a href="mailto:andrei.beloziyorove@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---

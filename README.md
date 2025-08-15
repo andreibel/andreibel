@@ -15,81 +15,91 @@
 - 💡 I build scalable backend services, real-time pipelines, and security-minded tooling.  
 - 🧰 Currently playing with microservices → Kafka, Docker, K8s, gRPC.  
 - 🎯 Goals: deeper observability (OpenTelemetry), e2e CI/CD, and high-throughput data pipelines.  
-- 📬 Reach me: `YOUR_EMAIL`
+- 📬 Reach me: `andrei.beloziyorove@gmail.com`
 
 ---
 
-## 🧱 Core Stack
-<!-- Badges: swap / add as needed -->
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white)
 
-**Backend:**  
+---
+
+## 🧱 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<!-- (you said no TypeScript so leaving it out) -->
+
+---
+
+## ⚙️ Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-1c9?logo=google&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?logo=postman&logoColor=white)
 
-**Data & Messaging:**  
+---
+
+## 🗄️ Databases & Messaging
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
-**DevOps & Infra:**  
+---
+
+## 🛠️ DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-**Frontend (for dashboards/tools):**  
+---
+
+## 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+
+---
+
+## 🎓 Education
+- 🎓 **B.Sc. Software Engineering** — Braude Academic College (Israel)  
+- 📚 Relevant coursework: Databases (MySQL, PostgreSQL), Algorithms, OOP (Java, C++), Computer Networks, Operating Systems, Web Development.  
+- 🛠️ University projects included:  
+  - Building backend APIs in **Java/Python**  
+  - Database modeling and optimization  
+  - Team projects using **Agile + Git**  
+
 ---
 
 ## 🏗️ Featured Projects
-<!-- Update repo names and descriptions -->
-<a href="https://github.com/YOUR_USERNAME/shortlink">
-  <img align="right" width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=shortlink&theme=tokyonight&hide_border=true" />
-</a>
 
-**ShortLink**  
-URL shortener with analytics, rate-limits, and dashboard.  
-**Stack:** Spring Boot, React, PostgreSQL, Redis, Docker, K8s
+### 🔗 BeloShort
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-beloshort.link-blue?style=flat&logo=firefox)](https://beloshort.link)  
+[![GitHub](https://img.shields.io/badge/Code-Repository-black?logo=github)](https://github.com/YOUR_USERNAME/shortlink)
 
-<br clear="right"/>
+A **full-stack URL shortener** with secure authentication and real-time analytics.  
+Built with **Spring Boot**, **React (Vite + Tailwind)**, and deployed via **Docker**.  
 
-<a href="https://github.com/YOUR_USERNAME/security-scanner">
-  <img align="right" width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=security-scanner&theme=tokyonight&hide_border=true" />
-</a>
+**✨ Features**  
+- Shorten & redirect links  
+- Analytics for each short URL  
+- JWT authentication for users  
+- Generate QR codes  
+- Fully containerized  
 
-**Web Security Scanner**  
-Crawler + API analyzer, reports SQLi/XSS patterns, integrates with CI.  
-**Stack:** Python, FastAPI, Playwright, Kafka, MongoDB
+**🛠️ Tech Stack**  
+`Java (Spring Boot)` • `React` • `Tailwind CSS` • `JWT` • `Docker` • `QR generator`
 
-<br clear="right"/>
 
 > 👉 Check more on my pinned repos below.
 
----
-
-## 📊 Stats & Activity
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🧪 What I Like Building
 - Microservices with strong contracts (OpenAPI/gRPC)

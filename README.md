@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hey, I'm Andrei Beloziyorove 👋</h1>
 <p align="center">
   Backend-focused SWE • Spring Boot • FastAPI • Kafka • Docker • Kubernetes • PostgreSQL
 </p>
@@ -20,7 +20,7 @@
 - 📬 Reach me: `YOUR_EMAIL`
 
 ---
-
+<center>
 ## 🧱 Core Stack
 <!-- Badges: swap / add as needed -->
 **Languages:**  
@@ -52,7 +52,7 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
-
+</center>
 ---
 
 ## 🏗️ Featured Projects

@@ -82,7 +82,7 @@
 
 ### 🔗 BeloShort
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-beloshort.link-blue?style=flat&logo=firefox)](https://beloshort.link)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-black?logo=github)](https://github.com/YOUR_USERNAME/shortlink)
+[![GitHub](https://img.shields.io/badge/Code-Repository-black?logo=github)](https://github.com/andreibel/shortLink)
 
 A **full-stack URL shortener** with secure authentication and real-time analytics.  
 Built with **Spring Boot**, **React (Vite + Tailwind)**, and deployed via **Docker**.  

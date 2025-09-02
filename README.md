@@ -29,7 +29,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-<!-- (you said no TypeScript so leaving it out) -->
 
 ---
 
@@ -37,7 +36,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-1c9?logo=google&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?logo=postman&logoColor=white)
 
 ---
@@ -56,8 +54,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
@@ -102,7 +98,7 @@ Built with **Spring Boot**, **React (Vite + Tailwind)**, and deployed via **Dock
 
 
 ## 🧪 What I Like Building
-- Microservices with strong contracts (OpenAPI/gRPC)
+- Microservices with strong contracts (OpenAPI)
 - Real-time pipelines (Kafka) & async patterns
 - Observability-first services (metrics, traces, logs)
 - Security-aware features (authN/Z, scanning, secrets hygiene)
@@ -121,5 +117,5 @@ Built with **Spring Boot**, **React (Vite + Tailwind)**, and deployed via **Dock
 
 <!-- Footer -->
 <div align="center">
-  <sub>Built with ❤️ — last updated: <!-- DATE -->2025-08-15</sub>
+  <sub>Built with ❤️ — last updated: <!-- DATE -->2025-09-02</sub>
 </div>

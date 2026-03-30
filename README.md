@@ -90,13 +90,6 @@ In parallel, I lead **5 student teams** at Magshimim Cyber, where all 5 projects
 
 -----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreibel&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreibel&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
 -----
 
 <p align="center">

@@ -2,116 +2,103 @@
 <h1 align="center">Hey, I'm Andrei Beloziorov 👋</h1>
 
 <p align="center">
-  Backend-focused Software Engineering Student • Java • Spring Boot • PostgreSQL • Docker
+  <strong>Backend Engineer · Distributed Systems · Java · Spring Boot · Kafka · gRPC</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrei-beloziorov/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
   <a href="mailto:andrei.beloziyorove@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
 </p>
 
----
+-----
 
-## 🚀 About Me
+## About Me
 
-I’m a third-year Software Engineering student with a clear focus on **Backend development**.  
-I build backend features and services through academic and personal projects, working mainly with **Java and Spring Boot**, relational databases, and containerized environments.
+Third-year Software Engineering student specializing in backend and distributed systems.
 
-In parallel, I serve as a **Team Lead in the Magshimim Cyber Program**, where I mentor student teams, guide technical decisions, and support structured development processes.
+Currently building **BentoLab** — a production-grade open-source Jira alternative with 8 microservices, deployable on a Raspberry Pi or AWS with a single command.
 
----
+In parallel, I lead **5 student teams** at Magshimim Cyber, where all 5 projects were successfully delivered — including cryptography, steganography, and a stealth protocol for covert data transfer.
 
-## 🧠 Core Technical Focus
+-----
 
-- Backend feature development (APIs, business logic, authentication)
-- RESTful API design and clean service structure
-- Relational databases (PostgreSQL, MySQL)
-- Containerized applications with Docker
-- Version control and team workflows with Git
+## Core Stack
 
----
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+</p>
 
-## 🧱 Programming Languages
+-----
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+## Featured Projects
 
----
+### 🍱 BentoLab — Open-source Project Management Platform
 
-## ⚙️ Backend & APIs
+> Production-grade Jira alternative · 8 microservices · Self-hostable on Raspberry Pi or AWS
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?logo=postman&logoColor=white)
+[![BentoLab](https://img.shields.io/badge/Repo-bentolab-5b47e0?logo=github&logoColor=white&style=flat-square)](https://github.com/andreibel/bentolab)
+![Java](https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-Event--driven-231F20?style=flat-square)
+![Tests](https://img.shields.io/badge/tests-180%20passing-brightgreen?style=flat-square)
 
----
+- 8 microservices: Auth, Org, Board, Task, Notification, Realtime, Attachment, API Gateway
+- Inter-service communication via **gRPC + Protobuf**
+- JWT auth · Spring Cloud Gateway · Kafka · Redis · MongoDB · PostgreSQL
+- Deployed on **AWS (EC2, RDS, S3, ALB)** and runs on a **Raspberry Pi 5**
 
-## 🗄️ Databases & Messaging
+-----
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+### 🔗 BeloShort — URL Shortener & QR Platform
 
----
+> Live at [beloshort.link](https://beloshort.link)
 
-## 🛠️ DevOps & Tooling
+[![ShortLink](https://img.shields.io/badge/Repo-shortLink-black?logo=github&logoColor=white&style=flat-square)](https://github.com/andreibel/shortLink)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-JWT-6DB33F?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-deployed-2496ED?style=flat-square)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+- RESTful API for link creation, redirection, click analytics, and QR generation
+- JWT authentication · PostgreSQL · Full Docker Compose setup
 
----
+-----
 
-## 🏗️ Featured Project
+### 🤖 Telegram AI Study Bot
 
-### 🔗 BeloShort — URL Shortener
+> AI-powered study assistant via Telegram
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-beloshort.link-blue?logo=firefox)](https://beloshort.link)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-black?logo=github)](https://github.com/andreibel/shortLink)
+[![Bot](https://img.shields.io/badge/Repo-spribg__ai__bot-black?logo=github&logoColor=white&style=flat-square)](https://github.com/andreibel/spribg_ai_bot)
+![Python](https://img.shields.io/badge/Python-OpenAI-3776AB?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-microservice-6DB33F?style=flat-square)
 
-A **backend-focused URL shortener** built as a full project from design to deployment.
+- OpenAI API integration for Q&A and topic explanation
+- Python bot + Spring Boot microservice for session management
 
-**What I worked on**
-- RESTful APIs for link creation, redirection, and analytics
-- JWT-based authentication and backend business logic
-- Data persistence using PostgreSQL
-- Containerization and deployment with Docker
-- A lightweight frontend to consume backend APIs
+-----
 
----
+## GitHub Stats
 
-## 📚 Currently Learning & Exploring
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreibel&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreibel&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
-- Distributed systems fundamentals
-- Event-driven patterns with Kafka
-- Container orchestration concepts (Kubernetes basics)
-- Service communication and API contracts
-- Backend testing and observability fundamentals
+-----
 
----
-
-## 🧪 What I Enjoy Working On
-
-- Backend services with clear responsibilities
-- Systems that require structured thinking and debugging
-- Security-aware features (authentication, access control)
-- Improving code quality and maintainability
-
----
-
-## 🤝 Open to
-
-- Backend-oriented student or junior roles
-- Learning-focused open-source contributions
-- Collaboration on backend or infrastructure-related projects
-
----
-
-<div align="center">
-  <sub>Built with ❤️ • Last updated: 2025-12-19</sub>
-</div>
+<p align="center">
+  <sub>Open to backend-focused junior roles and open-source collaboration</sub>
+</p>
